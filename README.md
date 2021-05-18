@@ -13,9 +13,9 @@
 ![after_cleaning](https://user-images.githubusercontent.com/84064361/118604787-86691600-b7f0-11eb-9ce1-edf92a2d251c.png)
 
 ### 학습-예측
-* 학습 데이터
-![traindata](https://user-images.githubusercontent.com/84064361/118593837-52d3bf00-b7e3-11eb-8163-e4b6fad7a8bd.png)ㅑ
+* 학습 데이터(20,130)
+![traindata](https://user-images.githubusercontent.com/84064361/118593837-52d3bf00-b7e3-11eb-8163-e4b6fad7a8bd.png)
 
-* 예측 결과
+* 예측 결과(5,033)
 ![testdata](https://user-images.githubusercontent.com/84064361/118593842-55361900-b7e3-11eb-90ad-f7f2b36d5eb5.png)
 
