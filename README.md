@@ -8,10 +8,8 @@
 * 전처리 전
 ![before_cleaning](https://user-images.githubusercontent.com/84064361/118604783-849f5280-b7f0-11eb-834a-95e274a0a924.png)
 
-* 전처리 후
-![after_cleaning](https://user-images.githubusercontent.com/84064361/118604787-86691600-b7f0-11eb-9ce1-edf92a2d251c.png)
-
 * datetime에 해당 요일 추가
+
 ![head](https://user-images.githubusercontent.com/84064361/118623039-d0f38e00-b802-11eb-88a4-4979c8e5ea50.png)
 
 ### 학습-예측
