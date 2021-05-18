@@ -3,6 +3,16 @@
 * input :  온도, 습도, 요일, 사용량(이전) 
 * output : 사용량(192 step 후)
 
+### 데이터 전처리
+* 비정상 데이터 제거
+* datetime 요일 추가 
+* 전처리 전
+![gradcam_resnet](https://user-images.githubusercontent.com/84064361/118603649-26be3b00-b7ef-11eb-8eca-57790acd4e60.png)
+
+* 전처리 후
+![after_cleaning](https://user-images.githubusercontent.com/84064361/118604787-86691600-b7f0-11eb-9ce1-edf92a2d251c.png)
+
+### 학습-예측
 * 학습 데이터
 ![traindata](https://user-images.githubusercontent.com/84064361/118593837-52d3bf00-b7e3-11eb-8163-e4b6fad7a8bd.png)ㅑ
 
