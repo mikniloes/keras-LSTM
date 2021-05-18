@@ -12,7 +12,7 @@
 ![after_cleaning](https://user-images.githubusercontent.com/84064361/118604787-86691600-b7f0-11eb-9ce1-edf92a2d251c.png)
 
 * datetime에 해당 요일 추가
-![head](https://user-images.githubusercontent.com/84064361/118622705-883bd500-b802-11eb-9da5-1a45bf3faf37.png)
+![head](https://user-images.githubusercontent.com/84064361/118623039-d0f38e00-b802-11eb-88a4-4979c8e5ea50.png)
 
 ### 학습-예측
 * 2개의 LSTM layer와 한개의 Dense layer로 이루어진 네트워크로 시퀀스 학습
