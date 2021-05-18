@@ -16,9 +16,11 @@
 * 2개의 LSTM layer와 한개의 Dense layer로 이루어진 네트워크로 시퀀스 학습
 ![model_plot](https://user-images.githubusercontent.com/84064361/118617182-596f3000-b7fd-11eb-8e98-b42115514782.png)
 
-* 학습 데이터(20,130)
+* 과거의 패턴을 학습하여 미래 사용량을 예측
+
+* 학습 데이터 (사용량) 패턴(20,130 행)
 ![traindata](https://user-images.githubusercontent.com/84064361/118593837-52d3bf00-b7e3-11eb-8163-e4b6fad7a8bd.png)
 
-* 예측 결과(5,033)
+* 테스트 데이터(사용량) 예측 결과(5,033 행)
 ![testdata](https://user-images.githubusercontent.com/84064361/118593842-55361900-b7e3-11eb-90ad-f7f2b36d5eb5.png)
 
