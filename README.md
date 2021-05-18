@@ -7,7 +7,7 @@
 * 비정상 데이터 제거
 * datetime 요일 추가 
 * 전처리 전
-![gradcam_resnet](https://user-images.githubusercontent.com/84064361/118603649-26be3b00-b7ef-11eb-8eca-57790acd4e60.png)
+![before_cleaning](https://user-images.githubusercontent.com/84064361/118604783-849f5280-b7f0-11eb-834a-95e274a0a924.png)
 
 * 전처리 후
 ![after_cleaning](https://user-images.githubusercontent.com/84064361/118604787-86691600-b7f0-11eb-9ce1-edf92a2d251c.png)
