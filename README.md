@@ -13,6 +13,9 @@
 ![after_cleaning](https://user-images.githubusercontent.com/84064361/118604787-86691600-b7f0-11eb-9ce1-edf92a2d251c.png)
 
 ### 학습-예측
+* 2개의 LSTM layer와 한개의 Dense layer로 이루어진 네트워크로 시퀀스 학습
+![model_plot](https://user-images.githubusercontent.com/84064361/118617182-596f3000-b7fd-11eb-8e98-b42115514782.png)
+
 * 학습 데이터(20,130)
 ![traindata](https://user-images.githubusercontent.com/84064361/118593837-52d3bf00-b7e3-11eb-8163-e4b6fad7a8bd.png)
 
