@@ -5,7 +5,7 @@
 
 ### 데이터 전처리
 * 비정상 데이터 제거
-* 전처리 전
+
 ![before_cleaning](https://user-images.githubusercontent.com/84064361/118604783-849f5280-b7f0-11eb-834a-95e274a0a924.png)
 
 * datetime에 해당 요일 추가
@@ -14,6 +14,7 @@
 
 ### 학습-예측
 * 2개의 LSTM layer와 한개의 Dense layer로 이루어진 네트워크로 시퀀스 학습
+
 ![model_plot](https://user-images.githubusercontent.com/84064361/118617182-596f3000-b7fd-11eb-8e98-b42115514782.png)
 
 * 과거의 패턴을 학습하여 미래 사용량을 예측
